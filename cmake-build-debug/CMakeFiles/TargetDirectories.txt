@@ -1,0 +1,3 @@
+/Users/tannersmith/CLionProjects/PigDice5/cmake-build-debug/CMakeFiles/PigDice5.dir
+/Users/tannersmith/CLionProjects/PigDice5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tannersmith/CLionProjects/PigDice5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
